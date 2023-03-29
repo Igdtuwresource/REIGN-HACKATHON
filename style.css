@@ -213,7 +213,11 @@ display:none;
 .review{
     margin-top:200px;
 }
-
+.review .box-container .boxs img{
+    height:10rem;
+    margin-top:4px;
+    border:transparent;
+}
 
 .review .box-container .box .l{
     height:40rem;
@@ -230,6 +234,16 @@ display:none;
     
     border:transparent;
 }
+.review .box-container .boxs img{
+    height:10rem;
+    
+    border:transparent;
+}
+.review .box-container .box .w{
+    height:30rem;
+    
+    border:transparent;
+}
 .menu .box-container .box h3{
     color:rgb(242, 238, 238);
     font-size: 2rem;
@@ -240,7 +254,6 @@ display:none;
     font-size: 2.5rem;
     
 }
-
 
 .menu .box-container .box h3:hover{
     color:black;
@@ -325,8 +338,20 @@ display:none;
     padding:3rem 2rem;
     border-radius:5px;
 }
-
+.review .box-container .boxs{
+    
+    text-align: center;
+    padding:3rem 2rem;
+    border-radius:5px;
+}
 .review .box-container .box p{
+    font-size: 1.5rem;
+    line-height: 1.8;
+    color:black;
+    padding:2rem 0;
+    text-decoration:none;
+}
+.review .box-container .boxs p{
     font-size: 1.5rem;
     line-height: 1.8;
     color:black;
