@@ -225,7 +225,11 @@ display:none;
     border:transparent;
 }
 }
-
+.gold{
+    color:white;
+    font-size:25px;
+    
+}
 .review{
     margin-top:150px;
 }
