@@ -350,6 +350,11 @@ section{
     .shares{
         display:none;
     }
+    .review .box-container .box .f{
+        height:40rem;
+        
+        border:transparent;
+    }
     
 }
 
